@@ -16,15 +16,9 @@ Español: Nativo 🇲🇽
 Ingles: Básico 🇺🇸 
 
 <h2>Contacto</h2> 
-correo:<a href="mailto:omar.padron.perez@gmail.com"> omar.padron.perez@gmail.com</a>
+correo:<a target="_blank" href="mailto:omar.padron.perez@gmail.com"> omar.padron.perez@gmail.com</a>
 
-linkedin: <a href="https://www.linkedin.com/in/javierpadronperez/"> javierpadronperez</a>
+linkedin: <a target="_blank" href="https://www.linkedin.com/in/javierpadronperez/"> javierpadronperez</a>
 
 <h2></h2> 
  Estoy comenzando con el reto de #100diasDeCodigo en javascript y react
-
-
-
-
-
-
