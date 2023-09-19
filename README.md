@@ -5,7 +5,7 @@
 ```javascript
 const Javier = {
   Lenguajes: ["HTML", "CSS", "JavaScript", "Typescript", "Python", "Java"],
-  Frameworks: ["React", "Bootstrap"],
+  Frameworks: ["React", "Angular", "Bootstrap"],
   DB:["MYSQL","mongodb"]
   Herramientas: ["Wordpress", "Git", "Docker"]
 }
