@@ -1,9 +1,3 @@
-<style>
-  img{
-    
-  }
-</style>
-
 <h1 align="center">Hola 👋, me llamo Javier Omar</h1>
 <h3 align="center">Programador Front-end</h3> 
 <img align='right'; src="https://github.com/OmarPadronPerez/OmarPadronPerez/assets/87333744/f03df1b0-22b3-43b5-b72c-5f07884b0f20" width="230">
